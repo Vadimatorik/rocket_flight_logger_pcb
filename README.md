@@ -1,0 +1,2 @@
+# rocket_flight_logger_utilequ_pcb
+В данном репозитории содержатся исходные файлы проекта rocket_flight_logger_utilequ.
